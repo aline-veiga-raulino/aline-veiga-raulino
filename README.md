@@ -87,8 +87,11 @@ SENAC · 2022 – 2023
 ## 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aline-veiga-raulino&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-veiga-raulino&layout=compact&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-veiga-raulino&layout=donut&hide_border=true&langs_count=6" height="180"/>
+</p>
+
+<p align="center">
+  <b>Power BI · MySQL · Excel · Power Query</b>
 </p>
 
 ---
