@@ -1,5 +1,3 @@
-# Aline Veiga Raulino
-
 ### Analista de Marketing e Dados | Business Intelligence | Power BI
 
 Minha formação em Marketing e Comunicação Visual me permite combinar análise, visão de negócio e experiência visual na construção de dashboards e apresentações de dados.
@@ -14,7 +12,7 @@ Atualmente, curso MBA em Data Science, Inteligência Artificial e Analytics pela
 Power BI
 
 **Dados & Analytics**  
-Excel · Análise de Dados
+Excel · Modelagem de Dados
 
 **Visual & UX**  
 Figma
@@ -23,14 +21,12 @@ Figma
 
 ## 🛠️ Tecnologias
 
-### Core
+### Principais
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Power%20Query-68217A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
@@ -97,14 +93,6 @@ SENAC · 2022 – 2023
   <img src="https://github-readme-stats.vercel.app/api?username=aline-veiga-raulino&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-veiga-raulino&layout=compact&hide_border=true" height="165"/>
 </p>
-
----
-
-## 🎯 Atualmente
-
-Aprofundando meus conhecimentos em:
-
-**Python · SQL · HTML · CSS**
 
 ---
 
