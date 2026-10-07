@@ -8,14 +8,11 @@ Atualmente, curso MBA em Data Science, Inteligência Artificial e Analytics pela
 
 ## 📊 Especialidades
 
-**Business Intelligence**  
-Power BI
-
-**Dados & Analytics**  
-Excel · Modelagem de Dados
-
-**Visual & UX**  
-Figma
+<p align="left">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dados%20%26%20Analytics-Modelagem%20de%20Dados-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visual%20%26%20UX-Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
@@ -89,9 +86,9 @@ SENAC · 2022 – 2023
 
 ## 📈 GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aline-veiga-raulino&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-veiga-raulino&layout=compact&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aline-veiga-raulino&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-veiga-raulino&layout=compact&hide_border=true" height="180"/>
 </p>
 
 ---
