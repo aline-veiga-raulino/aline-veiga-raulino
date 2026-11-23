@@ -67,7 +67,7 @@ Landing page desenvolvida para praticar HTML, CSS, JavaScript e responsividade.
 
 **HTML · CSS · JavaScript**
 
-[Ver projeto →](https://github.com/aline-veiga-raulino/cafe-aurora) · [Ver site →](https://aline-veiga-raulino.github.io/cafe-aurora/)
+[Ver projeto →](https://github.com/aline-veiga-raulino/cafe-aurora) · [Ver site →](https://aline-veiga-raulino.github.io/site-cafe-aurora/)
 
 ---
 
